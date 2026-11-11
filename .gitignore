@@ -5,7 +5,7 @@
 !/requirements.txt
 !/license.txt
 !/*.ico
-!/csd-blackjack-icon.png
+!/*icon.png
 !.gitignore
 
 git*.png
