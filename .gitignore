@@ -3,9 +3,12 @@
 !/csd-blackjack.py
 !/resources
 !/requirements.txt
+!/README.md
 !/license.txt
 !/*.ico
 !/*icon.png
+!/screenshot*.png
 !.gitignore
 
 git*.png
+__pycache__
